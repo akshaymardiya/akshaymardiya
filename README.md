@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello 👋
 Software Developer | Laravel, Node.js, AWS, Shopify, AI, Meta & more 💻 <br>Community Builder | Open Source Contributor 🌐 <br>Experienced in building robust web applications and optimizing e-commerce platforms. 🚀
 
 
